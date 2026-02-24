@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Step_KPO_LR1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af62be5d27611f252fe43aefaca47f156af074c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Step_KPO_LR1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Step_KPO_LR1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

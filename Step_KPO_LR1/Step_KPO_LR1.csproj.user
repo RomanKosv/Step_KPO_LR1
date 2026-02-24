@@ -4,6 +4,9 @@
     <Compile Update="ChildWindow.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="SetSize.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="MainWindow.cs">
       <SubType>Form</SubType>
     </Compile>

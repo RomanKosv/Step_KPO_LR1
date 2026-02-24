@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Text;
 using System.Windows.Forms;
 
@@ -17,6 +18,8 @@ namespace Step_KPO_LR1
         public static int default_width=400;
         public static int default_height=300;
         public string? SavePath = null;
+        public ImageFormat? format = null;
+        bool saved = false;
         public MainWindow parent;
         public ChildWindow(MainWindow par)
         {
@@ -38,6 +41,7 @@ namespace Step_KPO_LR1
                 old_versions.Add(image);
             }
             this.Invalidate();
+            saved = false;
         }
 
         private void ChildWindow_MouseDown(object sender, MouseEventArgs e)
@@ -65,7 +69,7 @@ namespace Step_KPO_LR1
             parent.paint.OnPaint(this, e);
             if (image != null)
             {
-                e.Graphics.DrawImage(image,0,0);
+                e.Graphics.DrawImage(image,new Rectangle(0,0,image.Width,image.Height));
                 using (var pen = new Pen(Color.Black, 1)) {
                     e.Graphics.DrawRectangle(pen,0,0,image.Width,image.Height);
                 }

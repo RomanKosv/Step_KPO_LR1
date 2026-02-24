@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\",
+  "WorkspaceRootPath": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22490B58-0A14-4279-BDD4-07B0C9185BB6}|Step_KPO_LR1\\Step_KPO_LR1.csproj|C:\\Users\\user\\Documents\\Step_KPO_LR1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22490B58-0A14-4279-BDD4-07B0C9185BB6}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\painter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\painter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\ellipsepaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\ellipsepaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\lastik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\lastik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\lastik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\user\\documents\\step_kpo_lr1\\step_kpo_lr1\\ipainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\ipainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\ipainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|C:\\Users\\user\\Documents\\Step_KPO_LR1\\step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\childwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22490B58-0A14-4279-BDD4-07B0C9185BB6}|Step_KPO_LR1\\Step_KPO_LR1.csproj|C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22490B58-0A14-4279-BDD4-07B0C9185BB6}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\painter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\painter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|c:\\users\\117\\downloads\\mdi stepan\\step_kpo_lr1\\step_kpo_lr1\\ellipsepaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57321D3A-DB41-CA3B-39DE-9E64C8D269A9}|Step_KPO_LR1\\Step_KPO_LR1.csproj|solutionrelative:step_kpo_lr1\\ellipsepaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
               "RelativeDocumentMoniker": "Step_KPO_LR1\\MainWindow.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs [Design]",
+              "RelativeToolTip": "Step_KPO_LR1\\MainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T13:07:03.186Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Painter.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Painter.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\Painter.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Painter.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\Painter.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T11:04:02.004Z",
-              "EditorCaption": ""
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\MainWindow.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\MainWindow.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T07:52:59.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\MainWindow.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T07:51:02.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ChildWindow.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
               "RelativeDocumentMoniker": "Step_KPO_LR1\\ChildWindow.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
               "RelativeToolTip": "Step_KPO_LR1\\ChildWindow.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T08:33:36.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Line.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Line.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\Line.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Line.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\Line.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCwAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\ChildWindow.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Step_KPO_LR1\\ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:54:59.317Z",
+              "WhenOpened": "2026-02-24T07:52:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\MainWindow.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:52:59.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPainter.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\IPainter.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\IPainter.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\IPainter.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\IPainter.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAgAAABYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Lastik.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Lastik.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\Lastik.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Lastik.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\Lastik.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T08:40:57.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T12:51:51.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPainter.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\IPainter.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\IPainter.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\IPainter.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\IPainter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:40:57.337Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EllipsePaint.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\EllipsePaint.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\EllipsePaint.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\EllipsePaint.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\EllipsePaint.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwEEAAAARAAAAAAAAAA==",
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:19:24.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T07:51:02.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Lastik.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Lastik.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\Lastik.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\Lastik.cs",
-              "RelativeToolTip": "Step_KPO_LR1\\Lastik.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Title": "Painter.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Painter.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\Painter.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Painter.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\Painter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:51:51.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T11:04:02.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Line.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\Line.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\Line.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\Line.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:54:59.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs",
-              "RelativeDocumentMoniker": "Step_KPO_LR1\\ChildWindow.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Step_KPO_LR1\\Step_KPO_LR1\\ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Step_KPO_LR1\\ChildWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "EllipsePaint.cs",
+              "DocumentMoniker": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\EllipsePaint.cs",
+              "RelativeDocumentMoniker": "Step_KPO_LR1\\EllipsePaint.cs",
+              "ToolTip": "C:\\Users\\117\\Downloads\\mdi stepan\\Step_KPO_LR1\\Step_KPO_LR1\\EllipsePaint.cs",
+              "RelativeToolTip": "Step_KPO_LR1\\EllipsePaint.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T07:52:26.803Z"
+              "WhenOpened": "2026-02-24T12:19:24.445Z"
             }
           ]
         }

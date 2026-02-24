@@ -1,3 +1,7 @@
+using System.Drawing.Imaging;
+using static System.Windows.Forms.DataFormats;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
+
 namespace Step_KPO_LR1
 {
     public partial class MainWindow : Form
@@ -63,7 +67,18 @@ namespace Step_KPO_LR1
 
         private void saveImageToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Form child = this.ActiveMdiChild;
+            if (child is ChildWindow window)
+            {
+                if (window.SavePath != null)
+                {
+                    window.image.Save(window.SavePath, window.format ?? ImageFormat.Jpeg);
+                }
+                else
+                {
+                    saveAsToolStripMenuItem_Click(sender, e);
+                }
+            }
         }
 
         private void toolStripComboBox1_Click(object sender, EventArgs e)
@@ -132,7 +147,11 @@ namespace Step_KPO_LR1
                 {
                     try
                     {
-                        Bitmap img = new Bitmap(dialog.FileName);
+                        Bitmap img;
+                        using (var stream = new FileStream(dialog.FileName, FileMode.Open, FileAccess.Read))
+                        {
+                            img = new Bitmap(Image.FromStream(stream));
+                        }
                         var w = new ChildWindow(this);
                         w.SavePath = dialog.FileName;
                         w.image = img;
@@ -145,6 +164,41 @@ namespace Step_KPO_LR1
                         MessageBox.Show("Ошибка при загрузке: " + ex.Message);
                     }
                 }
+            }
+        }
+
+        private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form child = this.ActiveMdiChild;
+            if (child is ChildWindow window)
+            {
+                using (var dialog = new SaveFileDialog())
+                {
+                    dialog.Filter = "Изображение JPEG (*.jpg)|*.jpg|Точечный рисунок BMP (*.bmp)|*.bmp";
+                    dialog.Title = "Save as";
+                    dialog.FileName = window.SavePath ?? dialog.FileName;
+                    if (dialog.ShowDialog() == DialogResult.OK)
+                    {
+                        ImageFormat format = ImageFormat.Jpeg;
+                        if (dialog.FilterIndex == 2)
+                        {
+                            format = ImageFormat.Bmp;
+                        }
+                        window.image.Save(dialog.FileName, format);
+                        window.SavePath = dialog.FileName;
+                        window.format = format;
+                    }
+                }
+            }
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            Form child = this.ActiveMdiChild;
+            if (child is ChildWindow window)
+            {
+                var dialog = new SetSize();
+
             }
         }
     }
